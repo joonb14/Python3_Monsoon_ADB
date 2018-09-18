@@ -1,6 +1,6 @@
 # Python3 Monsoon ADB
-this work is done by cyh0967@gmail.com 최용훈
-uploaded it to store the valuable code
+this work is done by cyh0967@gmail.com 최용훈 <br/>
+uploaded it to store the valuable code<br/>
 <hr/>
   
 ### using Monsoon power monitor on Python3 environment
